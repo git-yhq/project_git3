@@ -9,5 +9,6 @@ public class TestGitHub {
     public void test(){
         System.out.println("hello github");
         System.out.println("hello github2");
+        System.out.println("hello github3");
     }
 }

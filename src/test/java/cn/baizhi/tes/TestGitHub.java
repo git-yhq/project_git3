@@ -12,4 +12,8 @@ public class TestGitHub {
         System.out.println("hello github3");
         System.out.println("hello github4");
     }
+    @Test
+    public void test2(){
+        System.out.println("hello github5");
+    }
 }

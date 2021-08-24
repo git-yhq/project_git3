@@ -8,5 +8,6 @@ public class TestGitHub {
     @Test
     public void test(){
         System.out.println("hello github");
+        System.out.println("hello github2");
     }
 }
